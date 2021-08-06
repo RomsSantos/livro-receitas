@@ -3,6 +3,5 @@
 Salve Garotinho, Bem vindo a cozinha do gordola
 
 - Churros de Doce de Leite
-- Pudim
-- Paçoca
+- Bolinho de Chuva
 
